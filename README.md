@@ -6,7 +6,7 @@
   - [Smart watering system](https://github.com/Etzeban/SmartWateringSystem)
   - [Quadcopter drone](https://github.com/Etzeban/QuadcopterDrone)
   - [Design for manual assembly snap-fit bottle cap](https://github.com/Etzeban/Snap-fitCap)
-  
+  - [Design blow mold for water bottles manufacture](https://github.com/Etzeban/BlowMoldingBottle)
   - [Design a bridge made of Acrylic](https://github.com/Etzeban/BridgeDesign)
   - [Material design for a submersible](https://github.com/Etzeban/MaterialSubmersible)
   - [Design a gravity racer](https://github.com/Etzeban/GravityRacer)
